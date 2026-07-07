@@ -1,0 +1,170 @@
+{
+  "version": 1783417760827,
+  "updated": "2026-07-07",
+  "properties": [
+    {
+      "id": "seed1",
+      "title": "Casa con vista al mar en Conchas Chinas",
+      "operation": "venta",
+      "type": "casa",
+      "price": 890000,
+      "currency": "USD",
+      "colonia": "Conchas Chinas",
+      "bedrooms": 4,
+      "bathrooms": 4.5,
+      "parking": 2,
+      "areaBuilt": 420,
+      "areaLand": 600,
+      "status": "disponible",
+      "featured": true,
+      "images": [
+        "https://images.unsplash.com/photo-1613490493576-7fde63acd811?w=1100&q=80&auto=format&fit=crop"
+      ],
+      "image": "https://images.unsplash.com/photo-1613490493576-7fde63acd811?w=1100&q=80&auto=format&fit=crop",
+      "amenities": [
+        "Alberca",
+        "Vista al mar",
+        "Seguridad 24/7",
+        "Jardín"
+      ],
+      "description": "Residencia de autor sobre la ladera de Conchas Chinas con vistas abiertas a la Bahía de Banderas. Acabados de lujo, doble altura y terraza con alberca desbordante.",
+      "createdAt": 1783417760827
+    },
+    {
+      "id": "seed2",
+      "title": "Departamento a pasos de la playa en Zona Romántica",
+      "operation": "renta",
+      "type": "departamento",
+      "price": 28000,
+      "currency": "MXN",
+      "colonia": "Zona Romántica",
+      "bedrooms": 2,
+      "bathrooms": 2,
+      "parking": 1,
+      "areaBuilt": 95,
+      "areaLand": 0,
+      "status": "disponible",
+      "featured": true,
+      "images": [
+        "https://images.unsplash.com/photo-1502672260266-1c1ef2d93688?w=1100&q=80&auto=format&fit=crop"
+      ],
+      "image": "https://images.unsplash.com/photo-1502672260266-1c1ef2d93688?w=1100&q=80&auto=format&fit=crop",
+      "amenities": [
+        "Amueblada",
+        "Aire acondicionado",
+        "Roof garden",
+        "Pet friendly"
+      ],
+      "description": "Departamento totalmente amueblado en el corazón de la Zona Romántica. Camina a la playa, restaurantes y galerías.",
+      "createdAt": 1783417759827
+    },
+    {
+      "id": "seed3",
+      "title": "Villa privada en Amapas con roof garden",
+      "operation": "venta",
+      "type": "casa",
+      "price": 1250000,
+      "currency": "USD",
+      "colonia": "Amapas",
+      "bedrooms": 5,
+      "bathrooms": 5.5,
+      "parking": 3,
+      "areaBuilt": 540,
+      "areaLand": 720,
+      "status": "disponible",
+      "featured": false,
+      "images": [
+        "https://images.unsplash.com/photo-1580587771525-78b9dba3b914?w=1100&q=80&auto=format&fit=crop"
+      ],
+      "image": "https://images.unsplash.com/photo-1580587771525-78b9dba3b914?w=1100&q=80&auto=format&fit=crop",
+      "amenities": [
+        "Alberca",
+        "Vista al mar",
+        "Roof garden",
+        "Seguridad 24/7",
+        "Gimnasio"
+      ],
+      "description": "Villa contemporánea de cinco recámaras con roof garden panorámico, alberca privada y domótica integrada.",
+      "createdAt": 1783417758827
+    },
+    {
+      "id": "seed4",
+      "title": "Departamento frente a la marina en Marina Vallarta",
+      "operation": "renta",
+      "type": "departamento",
+      "price": 22000,
+      "currency": "MXN",
+      "colonia": "Marina Vallarta",
+      "bedrooms": 2,
+      "bathrooms": 2,
+      "parking": 1,
+      "areaBuilt": 110,
+      "areaLand": 0,
+      "status": "apartada",
+      "featured": false,
+      "images": [
+        "https://images.unsplash.com/photo-1522708323590-d24dbb6b0267?w=1100&q=80&auto=format&fit=crop"
+      ],
+      "image": "https://images.unsplash.com/photo-1522708323590-d24dbb6b0267?w=1100&q=80&auto=format&fit=crop",
+      "amenities": [
+        "Amueblada",
+        "Alberca",
+        "Seguridad 24/7",
+        "Aire acondicionado"
+      ],
+      "description": "Vive frente a la marina con acceso a campo de golf, restaurantes y muelle. Balcón y acabados listos para habitar.",
+      "createdAt": 1783417757827
+    },
+    {
+      "id": "seed5",
+      "title": "Terreno con vista en Sierra del Mar",
+      "operation": "venta",
+      "type": "terreno",
+      "price": 175000,
+      "currency": "USD",
+      "colonia": "Sierra del Mar, Los Arcos",
+      "bedrooms": 0,
+      "bathrooms": 0,
+      "parking": 0,
+      "areaBuilt": 0,
+      "areaLand": 1200,
+      "status": "disponible",
+      "featured": false,
+      "images": [
+        "https://images.unsplash.com/photo-1500382017468-9049fed747ef?w=1100&q=80&auto=format&fit=crop"
+      ],
+      "image": "https://images.unsplash.com/photo-1500382017468-9049fed747ef?w=1100&q=80&auto=format&fit=crop",
+      "amenities": [
+        "Vista al mar",
+        "Seguridad 24/7"
+      ],
+      "description": "Terreno de 1,200 m² en desarrollo privado con seguridad y vistas al océano. Listo para construir.",
+      "createdAt": 1783417756827
+    },
+    {
+      "id": "seed6",
+      "title": "Local comercial sobre avenida en el Centro",
+      "operation": "renta",
+      "type": "local",
+      "price": 35000,
+      "currency": "MXN",
+      "colonia": "Centro",
+      "bedrooms": 0,
+      "bathrooms": 1,
+      "parking": 2,
+      "areaBuilt": 140,
+      "areaLand": 0,
+      "status": "disponible",
+      "featured": false,
+      "images": [
+        "https://images.unsplash.com/photo-1441986300917-64674bd600d8?w=1100&q=80&auto=format&fit=crop"
+      ],
+      "image": "https://images.unsplash.com/photo-1441986300917-64674bd600d8?w=1100&q=80&auto=format&fit=crop",
+      "amenities": [
+        "Aire acondicionado"
+      ],
+      "description": "Local en planta baja con gran fachada y alto flujo peatonal. Ideal para retail, oficina o restaurante.",
+      "createdAt": 1783417755827
+    }
+  ]
+}
